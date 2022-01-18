@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #FAFFC1 ;
+    transition: 0.4s;
+    width: 250px;
+    height: 100vh;
+}
+
+header{
+    border: yellow solid;
+}
+.display-5 font h4{
+padding-right: 5px;
+}
+
+.profile{
+   padding: 50px;
+}
+
+.profile img{
+    border-radius: 50%;
+}
+.profile .title {
+    text-align: center;
+}
+
+.title h6{
+    color: #00C1FE;
+}
+.navbar-nav{
+    justify-content: center;
+    align-items: center;
+}
+
